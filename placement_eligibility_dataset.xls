@@ -1,0 +1,6 @@
+Student_ID,Name,Age,Gender,Graduation_Score,Backlogs,Internship,Placed
+101,Alice,22.0,F,75.0,0,Yes,Yes
+102,Bob,23.0,M,82.0,1,No,No
+103,Charlie,,M,65.0,2,Yes,No
+104,David,24.0,M,,0,No,Yes
+105,Eva,22.0,F,90.0,0,Yes,Yes
