@@ -1,4 +1,4 @@
-# Project---01-
+# Placement-Eligibility-Streamlit-Application
 Placement Eligibility Streamlit Application
 ## 📌 Project Overview
 This project is designed to evaluate the placement readiness of students based on their academic performance, programming skills, soft skills, and project experience.  
